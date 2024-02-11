@@ -3,7 +3,7 @@
 layout: post
 title: "This Week in AI: Government Innovations and Strategies"
 subtitle: "Exploring the latest AI developments across federal agencies"
-gh-repo: daattali/beautiful-jekyll
+gh-repo: solutionsolar/solutionsolar.github.io
 gh-badge: [star, fork, follow]
 tags: [AI, government, technology]
 comments: true
