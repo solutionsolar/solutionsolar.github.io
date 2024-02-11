@@ -1,13 +1,13 @@
-
 ---
 layout: post
-title: "This Week in AI: Government Innovations and Strategies"
-subtitle: "Exploring the latest AI developments across federal agencies"
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [AI, government, technology]
+title: This Week in AI: Government Innovations and Strategies
+subtitle: Exploring the latest AI developments across federal agencies
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books, test]
 comments: true
-author: AI Enthusiast
+author: Manzotti
 ---
 
 {: .box-note}
