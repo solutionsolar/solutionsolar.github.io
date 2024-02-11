@@ -14,8 +14,8 @@ The landscape of artificial intelligence (AI) in government is rapidly evolving,
 
 ## Department of Defense Accelerates AI Adoption
 
-{: .code-block}
-//check this out https://www.vaccineimpact.org/aboutus/
+{: .box-note}
+this is the way [What the Practice Areas could be](https://www.vaccineimpact.org/aboutus/)
 
 [The Department of Defense (DoD)](https://www.defense.gov/) has officially released its strategy to accelerate the adoption of advanced artificial intelligence capabilities. This strategic initiative aims to ensure U.S. warfighters maintain decision superiority on the battlefield for years to come. The DoD's focus on integrating AI into defense operations highlights the critical role of technology in national security and defense strategies.
 
