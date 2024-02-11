@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "This Week in AI: Government Innovations and Strategies"
